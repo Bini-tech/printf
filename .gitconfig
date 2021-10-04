@@ -1,0 +1,2 @@
+[user]
+	email = yohannesleul24@gmail.com\ngit config --global user.name yohannes\ngit comfig --global user.email yohannesleul24@gmail.com
