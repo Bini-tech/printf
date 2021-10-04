@@ -6,4 +6,4 @@ What you should learn from this project:
 Applying variadic functions
 The complexities of printf function
 How to use git in a team setting
-Hoe to work in a team
+How to work in a team
