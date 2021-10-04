@@ -1,10 +1,9 @@
-0x10. C - printf
-Description
-This team project is part of the first year curriculum of Holberton School. _printf replicates the C standard library printf() function.
+0x11. C - printf
+This project is for replicate the C standard library printf() function
 
 What you should learn from this project:
 
+Applying variadic functions
+The complexities of printf function
 How to use git in a team setting
-Applying variadic functions to a big project
-The complexities of printf
-Managing a lot of files and finding a good workflow
+Hoe to work in a team
